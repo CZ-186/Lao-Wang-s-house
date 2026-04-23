@@ -1,0 +1,28 @@
+{
+  "songs": [
+    {
+      "title": "告白气球\n(Cover)",
+      "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/49/f1/46/49f14662-a27c-9a91-13c1-ccfc02de6724/mzaf_11188127351008075312.plus.aac.p.m4a",
+      "size": 100,
+      "contributor": "王同学"
+    },
+    {
+      "title": "心愿便利贴",
+      "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/35/92/e43592c2-561a-57c3-cea1-a15ed1f3224e/mzaf_4500727031117294611.plus.aac.p.m4a",
+      "size": 90,
+      "contributor": "王同学"
+    },
+    {
+      "title": "晴天",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "size": 110,
+      "contributor": "匿名网友"
+    },
+    {
+      "title": "夜曲",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "size": 85,
+      "contributor": "神秘DJ"
+    }
+  ]
+}
